@@ -1,0 +1,18 @@
+INFO     root:baseApi.py:36 正在点击:('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素
+INFO     root:baseApi.py:29 正在查找元素：('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素,最多等待: 30秒
+INFO     root:baseApi.py:57 开始切换窗口
+INFO     root:baseApi.py:57 开始切换窗口
+INFO     root:baseApi.py:57 开始切换窗口
+INFO     root:baseApi.py:60 窗口切换成功
+INFO     root:baseApi.py:36 正在点击:('xpath', '//*[@data-value="粉色"]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '//*[@data-value="粉色"]')元素,最多等待: 30秒
+INFO     root:baseApi.py:36 正在点击:('xpath', '//*[@data-value="M"]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '//*[@data-value="M"]')元素,最多等待: 30秒
+INFO     root:baseApi.py:36 正在点击:('xpath', '//*[text()="加入购物车"]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '//*[text()="加入购物车"]')元素,最多等待: 30秒
+INFO     root:baseApi.py:36 正在点击:('xpath', '//*[text()="购物车"]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '//*[text()="购物车"]')元素,最多等待: 30秒
+INFO     root:baseApi.py:36 正在点击:('xpath', '(//*[text()="删除"])[1]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '(//*[text()="删除"])[1]')元素,最多等待: 30秒
+INFO     root:baseApi.py:36 正在点击:('xpath', '//*[text()="确定"]')元素
+INFO     root:baseApi.py:29 正在查找元素：('xpath', '//*[text()="确定"]')元素,最多等待: 30秒

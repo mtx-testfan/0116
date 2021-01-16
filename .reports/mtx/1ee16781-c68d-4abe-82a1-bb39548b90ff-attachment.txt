@@ -1,0 +1,8 @@
+[32mINFO    [0m root:baseApi.py:28 正在点击:('link text', '登录')元素
+[32mINFO    [0m root:baseApi.py:21 正在查找元素：('link text', '登录')元素,最多等待: 30秒
+[32mINFO    [0m root:baseApi.py:33 正在输入：('name', 'accounts')元素 输入值是: yaoyao
+[32mINFO    [0m root:baseApi.py:21 正在查找元素：('name', 'accounts')元素,最多等待: 30秒
+[32mINFO    [0m root:baseApi.py:33 正在输入：('name', 'pwd')元素 输入值是: yaoyao
+[32mINFO    [0m root:baseApi.py:21 正在查找元素：('name', 'pwd')元素,最多等待: 30秒
+[32mINFO    [0m root:baseApi.py:28 正在点击:('xpath', '//form/div[3]/button')元素
+[32mINFO    [0m root:baseApi.py:21 正在查找元素：('xpath', '//form/div[3]/button')元素,最多等待: 30秒

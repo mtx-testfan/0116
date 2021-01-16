@@ -1,0 +1,28 @@
+2021-01-09 12:06:33,015 INFO [root] [baseApi.py (__init__:14] - 正在初始化获取driver对象<selenium.webdriver.chrome.webdriver.WebDriver (session="3b2254bac70afd91efaa1dc3044b52d6")>
+2021-01-09 12:06:38,358 INFO [root] [baseApi.py (__init__:14] - 正在初始化获取driver对象<selenium.webdriver.chrome.webdriver.WebDriver (session="3b2254bac70afd91efaa1dc3044b52d6")>
+2021-01-09 12:06:38,358 INFO [root] [baseApi.py (base_click:36] - 正在点击:('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素
+2021-01-09 12:06:38,358 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素，最多等待:30秒
+2021-01-09 12:06:40,542 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[@data-value="粉色"]')元素
+2021-01-09 12:06:40,543 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[@data-value="粉色"]')元素，最多等待:30秒
+2021-01-09 12:06:41,601 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[@data-value="M"]')元素
+2021-01-09 12:06:41,601 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[@data-value="M"]')元素，最多等待:30秒
+2021-01-09 12:06:42,645 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="立即购买"]')元素
+2021-01-09 12:06:42,645 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="立即购买"]')元素，最多等待:30秒
+2021-01-09 12:06:43,689 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="货到付款"]')元素
+2021-01-09 12:06:43,689 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="货到付款"]')元素，最多等待:30秒
+2021-01-09 12:06:44,412 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="提交订单"]')元素
+2021-01-09 12:06:44,412 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="提交订单"]')元素，最多等待:30秒
+2021-01-09 12:14:25,084 INFO [root] [baseApi.py (__init__:14] - 正在初始化获取driver对象<selenium.webdriver.chrome.webdriver.WebDriver (session="53a2e2a1d0c3b7f1015e4539631c885e")>
+2021-01-09 12:14:30,227 INFO [root] [baseApi.py (__init__:14] - 正在初始化获取driver对象<selenium.webdriver.chrome.webdriver.WebDriver (session="53a2e2a1d0c3b7f1015e4539631c885e")>
+2021-01-09 12:14:30,227 INFO [root] [baseApi.py (base_click:36] - 正在点击:('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素
+2021-01-09 12:14:30,227 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('css selector', '#floor2 div.goods-list>div:nth-child(1)')元素，最多等待:30秒
+2021-01-09 12:14:32,407 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[@data-value="粉色"]')元素
+2021-01-09 12:14:32,407 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[@data-value="粉色"]')元素，最多等待:30秒
+2021-01-09 12:14:33,474 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[@data-value="M"]')元素
+2021-01-09 12:14:33,474 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[@data-value="M"]')元素，最多等待:30秒
+2021-01-09 12:14:34,514 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="立即购买"]')元素
+2021-01-09 12:14:34,514 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="立即购买"]')元素，最多等待:30秒
+2021-01-09 12:14:35,590 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="货到付款"]')元素
+2021-01-09 12:14:35,590 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="货到付款"]')元素，最多等待:30秒
+2021-01-09 12:14:36,514 INFO [root] [baseApi.py (base_click:36] - 正在点击:('xpath', '//*[text()="提交订单"]')元素
+2021-01-09 12:14:36,514 INFO [root] [baseApi.py (base_find_element:31] - 正在查找元素:('xpath', '//*[text()="提交订单"]')元素，最多等待:30秒

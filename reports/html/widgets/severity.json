@@ -1,0 +1,91 @@
+[ {
+  "uid" : "76c38c1948b4cb7f",
+  "name" : "删除购物车的测试用例",
+  "time" : {
+    "start" : 1610767305318,
+    "stop" : 1610767316245,
+    "duration" : 10927
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701efa29dc5ba5d1",
+  "name" : "下订单的正向测试用例",
+  "time" : {
+    "start" : 1610767383581,
+    "stop" : 1610767391132,
+    "duration" : 7551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9d737b8344983c4",
+  "name" : "添加购物车的测试用例",
+  "time" : {
+    "start" : 1610767293905,
+    "stop" : 1610767303344,
+    "duration" : 9439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f464c4539bfa30d3",
+  "name" : "test_login[args1]",
+  "time" : {
+    "start" : 1610767336010,
+    "stop" : 1610767342140,
+    "duration" : 6130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da3f9116766abb33",
+  "name" : "test_login[args4]",
+  "time" : {
+    "start" : 1610767357375,
+    "stop" : 1610767363765,
+    "duration" : 6390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31292b07588ed0e9",
+  "name" : "test_login[args0]",
+  "time" : {
+    "start" : 1610767329576,
+    "stop" : 1610767336006,
+    "duration" : 6430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51fe9a6b250d3e26",
+  "name" : "test_login[args2]",
+  "time" : {
+    "start" : 1610767342143,
+    "stop" : 1610767348146,
+    "duration" : 6003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "972d5d13e7f19f00",
+  "name" : "test_login[args3]",
+  "time" : {
+    "start" : 1610767348150,
+    "stop" : 1610767357372,
+    "duration" : 9222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15537b454d2b52f",
+  "name" : "新增地址的正向测试用例",
+  "time" : {
+    "start" : 1610767260426,
+    "stop" : 1610767275300,
+    "duration" : 14874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

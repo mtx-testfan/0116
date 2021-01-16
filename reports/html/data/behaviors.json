@@ -1,0 +1,134 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "新增地址的测试",
+    "children" : [ {
+      "name" : "新增地址的正向测试用例",
+      "uid" : "15537b454d2b52f",
+      "parentUid" : "c2e8b8df7edffc0605ffe18c08ea607f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610767260426,
+        "stop" : 1610767275300,
+        "duration" : 14874
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c2e8b8df7edffc0605ffe18c08ea607f"
+  }, {
+    "name" : "购物车功能的测试",
+    "children" : [ {
+      "name" : "添加购物车的测试用例",
+      "uid" : "c9d737b8344983c4",
+      "parentUid" : "0974abfa1e0fd74a05e0e59501d0b8d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610767293905,
+        "stop" : 1610767303344,
+        "duration" : 9439
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "删除购物车的测试用例",
+      "uid" : "76c38c1948b4cb7f",
+      "parentUid" : "0974abfa1e0fd74a05e0e59501d0b8d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610767305318,
+        "stop" : 1610767316245,
+        "duration" : 10927
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0974abfa1e0fd74a05e0e59501d0b8d1"
+  }, {
+    "name" : "test_login[args0]",
+    "uid" : "31292b07588ed0e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610767329576,
+      "stop" : 1610767336006,
+      "duration" : 6430
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'accounts': '', 'pwd': '1234567', 'assert': 'am-radius am-field-error am-active'}" ]
+  }, {
+    "name" : "test_login[args1]",
+    "uid" : "f464c4539bfa30d3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610767336010,
+      "stop" : 1610767342140,
+      "duration" : 6130
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'accounts': 'yaoyao', 'pwd': '', 'assert': 'am-radius am-field-error am-active'}" ]
+  }, {
+    "name" : "test_login[args2]",
+    "uid" : "51fe9a6b250d3e26",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610767342143,
+      "stop" : 1610767348146,
+      "duration" : 6003
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'accounts': 'lwx', 'pwd': 'yaoyao', 'assert': '帐号不存在'}" ]
+  }, {
+    "name" : "test_login[args3]",
+    "uid" : "972d5d13e7f19f00",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610767348150,
+      "stop" : 1610767357372,
+      "duration" : 9222
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'accounts': 'yaoyao', 'pwd': '123456', 'assert': '密码错误'}" ]
+  }, {
+    "name" : "test_login[args4]",
+    "uid" : "da3f9116766abb33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610767357375,
+      "stop" : 1610767363765,
+      "duration" : 6390
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'accounts': 'yaoyao', 'pwd': 'yaoyao', 'assert': 'yaoyao，欢迎来到'}" ]
+  }, {
+    "name" : "下订单功能的测试",
+    "children" : [ {
+      "name" : "下订单的正向测试用例",
+      "uid" : "701efa29dc5ba5d1",
+      "parentUid" : "74c8f7f60e4a8316995765d5351f5758",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610767383581,
+        "stop" : 1610767391132,
+        "duration" : 7551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "74c8f7f60e4a8316995765d5351f5758"
+  } ]
+}
